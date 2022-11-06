@@ -5,7 +5,6 @@
 
 # The program is using very basic characteristics to figure out which item the user has.
 
-# Import the random module
 small = True
 green = True
 
